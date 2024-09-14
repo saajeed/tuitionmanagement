@@ -1,1 +1,1 @@
-# Tuition-Management-System
+# tuitionmanagement
